@@ -6,6 +6,7 @@ Using this as a place to document all the courses and content I learn off codeca
 - Bullet points will be used to bullet major points or things I learned 
 
 **Linkedin Learning**
-1. Full stack software developer. (includes several courses that will be listed below)
+1. Full stack software developer. (includes several courses that will be listed below).
+
 Course 1: CSS essential training 
 - A simple intro to CSS, most of which is familar to me but a refresher is needed.
