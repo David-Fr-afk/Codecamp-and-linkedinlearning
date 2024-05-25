@@ -10,3 +10,4 @@ Using this as a place to document all the courses and content I learn off codeca
 
 Course 1: CSS essential training 
 - A simple intro to CSS, most of which is familar to me but a refresher is needed.
+- To speed website up lower pixel density of images
